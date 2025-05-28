@@ -60,20 +60,6 @@ Leverage AutoGluon's TabularPredictor to train and tune models with feature engi
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Download the dataset from the [Kaggle competition page](https://www.kaggle.com/competitions/bike-sharing-demand).
-2. Install required packages:
-    ```bash
-    pip install autogluon "mxnet<2.0.0" bokeh==2.0.1
-    ```
-3. Run the notebook step-by-step.
-4. Submit predictions using Kaggle CLI.
-
-> ⚠️ **Note**: Kaggle dataset is not included in this repo due to licensing.
-
----
-
 ## 📧 Contact
 
 - GitHub: [@zeinabalzarkan](https://github.com/zeinabalzarkan)
