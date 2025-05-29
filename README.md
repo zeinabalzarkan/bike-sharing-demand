@@ -47,19 +47,19 @@ The objective is to build a regression model that predicts the number of bike re
 To reproduce this project:
 
 ```bash
-# Clone this repository
-git clone https://github.com/zeinabalzarkan/bike-sharing-demand.git
-cd bike-sharing-demand
+ # Clone this repository
+   git clone https://github.com/zeinabalzarkan/bike-sharing-demand.git
+   cd bike-sharing-demand
 
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: .\venv\Scripts\activate
+ # (Optional) Create a virtual environment
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: .\venv\Scripts\activate
 
-# Install required packages
-pip install -r requirements.txt
+ # Install required packages
+   pip install -r requirements.txt
 
-# Run the notebook
-jupyter notebook project.ipynb
+ # Run the notebook
+   jupyter notebook project.ipynb
 
 ---
 
