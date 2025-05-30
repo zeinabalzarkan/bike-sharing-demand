@@ -37,5 +37,18 @@ With more time, I would explore additional feature engineering opportunities suc
 
 ![model_test_score.png](img/model_test_score.png)
 
+## 📈 Comparison of Kaggle Scores
+
+| Model          | Kaggle Score |
+|----------------|--------------|
+| Baseline       | 0.41011      |
+| Add Features   | 0.39045      |
+| Hyperparameter | 0.37982      |
+
+### 🎯 Improvement
+
+- From Baseline to Add Features: **(0.41011 - 0.39045) / 0.41011 ≈ 4.79% improvement**
+- From Baseline to HPO: **(0.41011 - 0.37982) / 0.41011 ≈ 7.36% improvement**
+
 ## Summary
 Through this project, I gained hands-on experience using AutoGluon for structured data modeling. Starting from a basic model, I applied feature engineering and hyperparameter tuning to systematically improve performance. I learned the importance of data preprocessing, especially handling edge cases like negative predictions, and how AutoGluon simplifies experimentation with multiple models. Overall, the improvements in both validation scores and leaderboard submissions demonstrate the effectiveness of iterative model development and tuning.
