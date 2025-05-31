@@ -25,9 +25,9 @@ With more time, I would explore additional feature engineering opportunities suc
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|default|-|-|0.799|
-|add_features|default|-|-|0.831|
-|hpo|best_quality|-|-|0.856|
+|initial|default|-|-|-53|
+|add_features|default|-|-|-30|
+|hpo|best_quality|-|-|-35|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
@@ -36,14 +36,6 @@ With more time, I would explore additional feature engineering opportunities suc
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 ![model_test_score.png](img/model_test_score.png)
-
-## 📈 Comparison of Kaggle Scores
-
-| Model          | Kaggle Score |
-|----------------|--------------|
-| Baseline       | 0.41011      |
-| Add Features   | 0.39045      |
-| Hyperparameter | 0.37982      |
 
 ### 🎯 Improvement
 
