@@ -26,9 +26,9 @@ The objective is to build a regression model that predicts the number of bike re
 
 | Model Version        | Description                     | Kaggle RMSE Score |
 |----------------------|----------------------------------|-------------------|
-| Initial Model        | Raw features only                | 0.70              |
-| + Feature Engineering| Added time-based features        | 0.78              |
-| + HPO                | Hyperparameter optimization      | 0.80              |
+| Initial Model        | Raw features only                | -53               |
+| + Feature Engineering| Added time-based features        | -30               |
+| + HPO                | Hyperparameter optimization      | -35               |
 
 ---
 
